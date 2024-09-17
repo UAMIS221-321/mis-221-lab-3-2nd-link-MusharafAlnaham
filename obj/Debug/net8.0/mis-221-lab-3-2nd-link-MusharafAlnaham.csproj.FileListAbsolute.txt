@@ -1,0 +1,15 @@
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\bin\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.exe
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\bin\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.deps.json
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\bin\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.runtimeconfig.json
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\bin\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.dll
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\bin\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.pdb
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.AssemblyInfoInputs.cache
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.AssemblyInfo.cs
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.csproj.CoreCompileInputs.cache
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.sourcelink.json
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.dll
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-MusharafAlnaham.dll
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.pdb
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\mis-221-lab-3-2nd-link-MusharafAlnaham.genruntimeconfig.cache
+C:\Users\malna\OneDrive\Documents\source\repos\Fall2024\mis221\mis-221-lab-3-2nd-link-MusharafAlnaham\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-MusharafAlnaham.dll
